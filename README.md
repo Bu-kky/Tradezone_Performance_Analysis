@@ -5,8 +5,11 @@ TradeZone is a simulated e-commerce analytics project designed to analyze sales 
 The project focuses on transforming raw transactional data into actionable business insights through:
 
 -Data cleaning and validation
+
 -SQL-based business analysis
+
 -Interactive Power BI dashboards
+
 -Executive-level reporting and storytelling
 
 This project demonstrates practical skills in:
